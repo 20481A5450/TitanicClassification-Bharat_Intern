@@ -1,5 +1,5 @@
 # TitanicClassification-Bharat_Intern
-![Titanic](https://wallpaper.dog/large/20354882.jpg =200x)
+<img src="https://wallpaper.dog/large/20354882.jpg" alt="Titanic" width="300" height="200">
 ## Author
 
 - **Author:** Shaik Zohaib
