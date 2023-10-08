@@ -59,8 +59,8 @@ We make predictions using the trained model and evaluate its performance.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/titanic-survival-prediction.git
-cd titanic-survival-prediction
+git clone https://github.com/20481A5450/TitanicClassification-Bharat_Intern.git
+cd TitanicClassification-Bharat_Intern
 ```
 
 2. Ensure you have the required libraries installed (specified in a requirements file).
@@ -74,6 +74,3 @@ Contributions are welcome! If you'd like to improve this project or report issue
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Please replace `"titanic_image.jpg"` with an actual image illustrating your project if you have one. Additionally, you can customize the content of the README to match your specific project details and requirements.
