@@ -1,5 +1,5 @@
 # TitanicClassification-Bharat_Intern
-![Titanic](https://www.atlantajewishtimes.com/wp-content/uploads/2017/05/titanic-1.jpg)
+![Titanic]([https://www.atlantajewishtimes.com/wp-content/uploads/2017/05/titanic-1.jpg](https://static.timesofisrael.com/atlantajewishtimes/uploads/2022/03/DT6RD9-640x400.jpg))
 
 ## Author
 
