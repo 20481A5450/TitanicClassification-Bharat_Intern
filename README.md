@@ -1,5 +1,5 @@
 # TitanicClassification-Bharat_Intern
-![Titanic](titanic_image.jpg) <!-- Replace with an image illustrating your project -->
+![Titanic](https://www.atlantajewishtimes.com/wp-content/uploads/2017/05/titanic-1.jpg)
 
 ## Author
 
@@ -44,7 +44,7 @@ We start by exploring the dataset to gain insights:
 
 - Handling missing values in the age column
 - Encoding categorical variables like 'Sex' using LabelEncoder
-- Dropping non-required columns
+- Dropping non-required columns 'age'
 
 ## Model Training
 
@@ -63,7 +63,7 @@ git clone https://github.com/20481A5450/TitanicClassification-Bharat_Intern.git
 cd TitanicClassification-Bharat_Intern
 ```
 
-2. Ensure you have the required libraries installed (specified in a requirements file).
+2. Ensure you have the required libraries installed.
 
 3. Run the Jupyter Notebook to execute the project.
 
