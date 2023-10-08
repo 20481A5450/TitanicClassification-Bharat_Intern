@@ -1,6 +1,5 @@
 # TitanicClassification-Bharat_Intern
-![Titanic]((https://static.timesofisrael.com/atlantajewishtimes/uploads/2022/03/DT6RD9-640x400.jpg))
-
+![Titanic](https://wallpaper.dog/large/20354882.jpg)
 ## Author
 
 - **Author:** Shaik Zohaib
